@@ -4,8 +4,11 @@ UCSC Genome Browser &amp; ClinVar analysis of SERPINA1, the gene linked to Alpha
 # Exploring a Human Disease Gene Using UCSC Genome Browser and NCBI ClinVar
 
 **Name:** Obiñeta, Inah Marie
+
 **Date Completed:** September 23, 2025
+
 **Assigned Gene:** SERPINA1
+
 **Associated Disease:** Alpha-1 Antitrypsin Deficiency (AATD)
 
 ---
@@ -31,7 +34,7 @@ UCSC Genome Browser &amp; ClinVar analysis of SERPINA1, the gene linked to Alpha
 
 **Required proof – Screenshot 1: Gene location in UCSC**
 
-![Gene location in UCSC showing SERPINA1 name and chromosome/genomic coordinates](images/screenshots/01_gene_location.png)
+![Gene location in UCSC showing SERPINA1 name and chromosome/genomic coordinates](images/01_gene_location.png)
 
 ---
 
@@ -51,7 +54,7 @@ Introns appear longer than exons in SERPINA1. In the UCSC tooltip, Intron 3 alon
 
 **Required proof – Screenshot 2: Gene structure (exon boxes, intron connections, transcripts)**
 
-![SERPINA1 gene structure showing exon boxes, intron connecting lines, and multiple transcripts](images/screenshots/02_gene_structure.png)
+![SERPINA1 gene structure showing exon boxes, intron connecting lines, and multiple transcripts](images/02_gene_structure.png)
 
 ---
 
@@ -74,7 +77,7 @@ When a DNA sequence stays nearly identical across species over millions of years
 
 **Required proof – Screenshot 3: Gene with at least one additional track (ClinVar and/or Conservation)**
 
-![SERPINA1 gene with ClinVar and Conservation tracks visible](images/screenshots/03_tracks.png)
+![SERPINA1 gene with ClinVar and Conservation tracks visible](images/03_tracks.png)
 
 ---
 
@@ -94,7 +97,7 @@ When a DNA sequence stays nearly identical across species over millions of years
 
 **Required proof – Screenshot 4: Selected ClinVar variant record**
 
-![NCBI ClinVar record for SERPINA1 c.1096G>A (p.Glu366Lys), showing variant name and clinical significance](images/screenshots/04_clinvar_variant.png)
+![NCBI ClinVar record for SERPINA1 c.1096G>A (p.Glu366Lys), showing variant name and clinical significance](images/04_clinvar_variant.png)
 
 ---
 
@@ -117,7 +120,7 @@ Proving causation went beyond genomic location, relying on decades of supporting
 
 **Required proof – Screenshot 5: Selected variant in UCSC relative to gene structure**
 
-![rs28929474 variant location in UCSC shown alongside the SERPINA1 gene model](images/screenshots/05_variant_in_ucsc.png)
+![rs28929474 variant location in UCSC shown alongside the SERPINA1 gene model](images/05_variant_in_ucsc.png)
 
 ---
 
