@@ -75,7 +75,7 @@ The conservation peaks appeared to align primarily with the exon boxes in the ge
 **e. In 2-3 sentences, explain why strong conservation can suggest biological importance.**
 When a DNA sequence stays nearly identical across species over millions of years, it indicates purifying selection, where harmful mutations in vital regions are continuously removed. This high level of sequence conservation strongly suggests that the region plays a crucial functional role, such as in protein-coding exons or regulatory elements.
 
-**Screenshot 3: Gene with at least one additional track (ClinVar and/or Conservation)**
+**Screenshot 3: Gene with at least one additional track (ClinVar)**
 
 ![SERPINA1 gene with ClinVar and Conservation tracks visible](images/03_tracks.png)
 
