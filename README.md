@@ -32,7 +32,7 @@ UCSC Genome Browser &amp; ClinVar analysis of SERPINA1, the gene linked to Alpha
 | f. Strand | − (minus strand) |
 | g. Approximate size | 13.9 kb |
 
-**Required proof – Screenshot 1: Gene location in UCSC**
+**Screenshot 1: Gene location in UCSC**
 
 ![Gene location in UCSC showing SERPINA1 name and chromosome/genomic coordinates](images/01_gene_location.png)
 
@@ -52,7 +52,7 @@ Exons are coding segments kept in the mature mRNA and translated into protein, w
 **d. Describe whether the introns generally appear longer or shorter than the exons in your gene:**
 Introns appear longer than exons in SERPINA1. In the UCSC tooltip, Intron 3 alone measured 1,450 bp, while the exon boxes visible in the browser track are comparatively short and narrow. This matches the general pattern seen in most human genes, where large intron spacers separate relatively small coding exon blocks.
 
-**Required proof – Screenshot 2: Gene structure (exon boxes, intron connections, transcripts)**
+**Screenshot 2: Gene structure (exon boxes, intron connections, transcripts)**
 
 ![SERPINA1 gene structure showing exon boxes, intron connecting lines, and multiple transcripts](images/02_gene_structure.png)
 
@@ -75,7 +75,7 @@ The conservation peaks appeared to align primarily with the exon boxes in the ge
 **e. In 2-3 sentences, explain why strong conservation can suggest biological importance.**
 When a DNA sequence stays nearly identical across species over millions of years, it indicates purifying selection, where harmful mutations in vital regions are continuously removed. This high level of sequence conservation strongly suggests that the region plays a crucial functional role, such as in protein-coding exons or regulatory elements.
 
-**Required proof – Screenshot 3: Gene with at least one additional track (ClinVar and/or Conservation)**
+**Screenshot 3: Gene with at least one additional track (ClinVar and/or Conservation)**
 
 ![SERPINA1 gene with ClinVar and Conservation tracks visible](images/03_tracks.png)
 
@@ -95,7 +95,7 @@ When a DNA sequence stays nearly identical across species over millions of years
 | Review status | Typically "criteria provided, multiple submitters, no conflicts" for this well-studied variant |
 | ClinVar record URL | [https://www.ncbi.nlm.nih.gov/clinvar/variation/17967/](https://www.ncbi.nlm.nih.gov/clinvar/variation/17967/) |
 
-**Required proof – Screenshot 4: Selected ClinVar variant record**
+**Screenshot 4: Selected ClinVar variant record**
 
 ![NCBI ClinVar record for SERPINA1 c.1096G>A (p.Glu366Lys), showing variant name and clinical significance](images/04_clinvar_variant.png)
 
@@ -118,7 +118,7 @@ This Glu-to-Lys substitution introduces a charge clash that destabilizes the fol
 **e. What additional evidence would be needed before concluding that the variant causes disease?**
 Proving causation went beyond genomic location, relying on decades of supporting evidence: functional assays demonstrating impaired protein secretion, family studies linking the variant to disease, low population frequency, and numerous independent case reports. This breadth of validation is reflected in ClinVar's review status, which signals the reliability and consensus level of a variant's classification.
 
-**Required proof – Screenshot 5: Selected variant in UCSC relative to gene structure**
+**Screenshot 5: Selected variant in UCSC relative to gene structure**
 
 ![rs28929474 variant location in UCSC shown alongside the SERPINA1 gene model](images/05_variant_in_ucsc.png)
 
