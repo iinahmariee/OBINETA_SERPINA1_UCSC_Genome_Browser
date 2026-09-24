@@ -5,7 +5,7 @@ UCSC Genome Browser &amp; ClinVar analysis of SERPINA1, the gene linked to Alpha
 
 **Name:** Obiñeta, Inah Marie
 
-**Date Completed:** September 23, 2025
+**Date Completed:** September 23, 2026
 
 **Assigned Gene:** SERPINA1
 
