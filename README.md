@@ -152,4 +152,4 @@ Seeing alternative splicing directly was the most interesting part. Different tr
 - **GitHub repository URL:** https://github.com/iinahmariee/OBINETA_SERPINA1_UCSC_Genome_Browser/tree/GROUP-4
 - **Assigned gene:** SERPINA1
 - **Selected ClinVar variant:** NM_000295.4(SERPINA1):c.1096G>A (p.Glu366Lys) — rs28929474, "Z allele"
-- **Date completed:** September 23, 2025
+- **Date completed:** September 23, 2026
