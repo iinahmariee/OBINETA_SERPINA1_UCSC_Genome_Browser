@@ -196,7 +196,7 @@ https://github.com/iinahmariee/OBINETA_SERPINA1_UCSC_Genome_Browser/tree/GROUP-4
 | Relevance to SERPINA1 / Alpha-1 Antitrypsin Deficiency | The liver is the primary organ that synthesizes and secretes circulating alpha-1 antitrypsin. In Alpha-1 Deficiency, misfolded SERPINA1 protein accumulates in hepatocytes, causing liver damage and reducing AAT delivery to the lungs. This dataset directly profiles the cell type responsible for AAT production — biologically the most relevant tissue. |
 | Publication/study | MacParland, B. J., et al. (2018). Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations. *Nature Communications*. GEO: GSE115469; PubMed: 30348985. |
 
-**Required proof – Screenshot 1**
+**Screenshot 1: 01_dataset.png**
 
 ![Dataset selection](images2/01_dataset.png)
 
@@ -223,7 +223,7 @@ https://github.com/iinahmariee/OBINETA_SERPINA1_UCSC_Genome_Browser/tree/GROUP-4
 | d. Clusters with stronger expression | Hepatocyte cluster, which shows the darkest colors and highest expression values |
 | e. Clusters with little/no detectable expression | Cholangiocyte, B cell, abT cell, NK-like, gdT cell, Plasma, Erythroid, Stellate, and all endothelial cell clusters |
 
-**Required proof – Screenshot 2**
+**Screenshot 2: 02_gene_expression**
 
 ![Gene expression view](images2/02_gene_expression.png)
 
@@ -239,7 +239,7 @@ https://github.com/iinahmariee/OBINETA_SERPINA1_UCSC_Genome_Browser/tree/GROUP-4
 | d. Expression pattern | Highly cell-type restricted |
 | e. Biological explanation | According to the data presented on human liver, SERPINA1 encodes a secreted plasma protein produced primarily by hepatocytes, so its strong enrichment in this cluster directly reflects its specialized liver function. Other liver cell types do not specialize in synthesizing this protease inhibitor, explaining why expression is largely absent elsewhere. |
 
-**Required proof – Screenshot 3**
+**Screenshot 3: 03_cell_types.png**
 
 ![Cell types expressing the gene](images2/03_cell_types.png)
 
@@ -253,7 +253,7 @@ https://github.com/iinahmariee/OBINETA_SERPINA1_UCSC_Genome_Browser/tree/GROUP-4
 | b. Expression compared to other cells | The selected hepatocytes show markedly higher SERPINA1 expression than all other liver cell types combined. The violin plot peaks are much higher, and the distribution sits far above the background group. |
 | c. What the plot adds beyond the UMAP | The UMAP only shows where expressing cells are located spatially. The violin plot reveals the full distribution of expression values and also confirms that nearly all hepatocytes express SERPINA1 at consistently high levels, while non-hepatocyte cells cluster near zero. |
 
-**Required proof – Screenshot 4**
+**Screenshot 4: 04_expression_plot.png**
 
 ![Expression plot](images2/04_expression_plot.png)
 
@@ -269,7 +269,7 @@ https://github.com/iinahmariee/OBINETA_SERPINA1_UCSC_Genome_Browser/tree/GROUP-4
 | d. Marker gene 3 | APOA2 (Apolipoprotein A-II) |
 | e. Does SERPINA1 behave like a cell-type marker? | These markers are specific to hepatocytes, so they clearly identify the cell type. SERPINA1 is also made by hepatocytes but is not unique enough to serve as a defining marker. |
 
-**Required proof – Screenshot 5**
+**Screenshot 5: 05_marker_genes.png**
 
 ![Marker genes](images2/05_marker_genes.png)
 
