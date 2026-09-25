@@ -153,3 +153,136 @@ Seeing alternative splicing directly was the most interesting part. Different tr
 - **Assigned gene:** SERPINA1
 - **Selected ClinVar variant:** NM_000295.4(SERPINA1):c.1096G>A (p.Glu366Lys) — rs28929474, "Z allele"
 - **Date completed:** September 23, 2026
+
+
+# From Genome to Cell: Exploring a Disease Gene Using the UCSC Cell Browser
+
+**Name:** Obiñeta, Inah Marie
+**Date Completed:** September 25, 2026
+**Previously assigned gene:** SERPINA1
+**Associated disease:** Alpha-1 Antitrypsin Deficiency
+
+---
+
+## PART A. Prepare Your GitHub Record
+
+GitHub Repository URL:
+https://github.com/iinahmariee/OBINETA_SERPINA1_UCSC_Genome_Browser/tree/GROUP-4
+
+---
+
+## PART B. Open the UCSC Cell Browser and Choose a Dataset
+
+*(Fill in: dataset name, organ/tissue, and why you selected it for SERPINA1/AATD.)*
+
+**Required proof – Screenshot 1**
+
+![Dataset selection](images2/01_dataset.png)
+
+---
+
+## PART C. Understand the Cell Map
+
+*(Fill in: visualization type, what a dot represents, what a cluster represents, and at least three visible cluster labels.)*
+
+---
+
+## PART D. Search for Your Assigned Gene
+
+*(Fill in: what happened when you searched SERPINA1, and what the expression coloring showed.)*
+
+**Required proof – Screenshot 2**
+
+![Gene expression view](images2/02_gene_expression.png)
+
+---
+
+## PART E. Identify the Cell Types Expressing Your Gene
+
+*(Fill in: which cell type(s)/cluster(s) show expression, and whether expression is widespread, restricted, or low/undetected.)*
+
+**Required proof – Screenshot 3**
+
+![Cell types expressing the gene](images2/03_cell_types.png)
+
+---
+
+## PART F. Select Cells and Examine a Violin Plot
+
+*(Fill in: what the violin plot shows across clusters, and how SERPINA1 expression compares between them.)*
+
+**Required proof – Screenshot 4**
+
+![Expression plot](images2/04_expression_plot.png)
+
+---
+
+## PART G. Explore Marker Genes
+
+*(Fill in: marker genes associated with the cluster(s) where SERPINA1 is expressed.)*
+
+**Required proof – Screenshot 5**
+
+![Marker genes](images2/05_marker_genes.png)
+
+---
+
+## PART H. Compare Your Assigned Gene with One Marker Gene
+
+*(Fill in: how SERPINA1's expression pattern compares to one marker gene you examined.)*
+
+---
+
+## PART I. Connect the Cell Browser Result to Your Previous Genome Activity
+
+**1. Chromosome location**
+SERPINA1 is located on the long arm of chromosome 14, specifically at position 14q32.13.
+
+**2. Disease-associated variant examined**
+The Z variant (p.Glu342Lys) is the most common severe mutation, for it causes the protein to misfold and accumulate in liver cells instead of being released into the blood. The milder S variant (p.Glu264Val) also reduces functional protein levels.
+
+**3. Cell type(s) expressing the gene**
+Hepatocytes are the only cell type with strong, consistent SERPINA1 expression. All other liver cell types show negligible or no detectable expression.
+
+**4. Does this make biological sense?**
+Yes, since SERPINA1 makes a protective protein produced mainly by hepatocytes and released into the blood to shield the lungs from damage. In Alpha-1 Antitrypsin Deficiency, misfolded protein builds up in these same hepatocytes and can harm the liver, while too little protective protein reaches the lungs. Seeing expression restricted to hepatocytes directly explains why both liver and lungs are affected by a single gene.
+
+**5. Can this single dataset prove the gene causes the disease?**
+No. This dataset only shows where the gene is active in healthy liver cells. It does not compare normal cells to those with the mutation, measure protein function, or link genetic changes to patient symptoms.
+
+---
+
+## PART J. Short Reflection
+
+**1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?**
+The Cell Browser showed where and how strongly a gene is active across individual cell types and clusters, rather than just its position on the DNA sequence. It revealed that SERPINA1 is almost exclusively expressed in hepatocytes, which the Genome Browser focused on chromosome location, structure.
+
+**2. Why can the same gene have different expression levels among different cell types?**
+Every cell shares the same full set of genes, but only a subset are turned on in any given cell type based on its specialized role. Hepatocytes activate genes needed for liver functions including SERPINA1, while other cells silence these genes and express their own unique sets instead.
+
+**3. Why should you be careful when interpreting a gene that shows zero or very low expression in single-cell data?**
+A zero or near-zero reading does not always mean the gene is completely absent or inactive. It may simply be too rare to detect reliably in that cell. Technical limits, low sequencing sensitivity, or timing of expression can also hide true biological signal, so results should be interpreted cautiously.
+
+**4. Why is it useful to combine information about genomic location, genetic variants, and cell-specific gene expression?**
+Knowing where a gene sits in the genome, what variants it carries, and exactly which cells express it creates a complete picture from DNA change to biological effect. These layers help explain how a mutation in a liver-specific gene can cause both liver and lung disease, and why symptoms appear in some tissues but not others.
+
+**5. What was the most interesting observation you made about your assigned gene?**
+I was surprised to see how strictly SERPINA1 is limited to hepatocytes, even though the disease it causes damages both the liver and the lungs. The realization that since the protein is made in the liver but travels through the blood to protect the lungs and is connecting where the gene is expressed to where the illness appears.
+
+---
+
+## References
+
+National Center for Biotechnology Information. (n.d.). *SERPINA1 serpin family A member 1 [Homo sapiens (human)]* (Gene ID: 5265). U.S. National Library of Medicine. Retrieved September 25, 2026, from https://www.ncbi.nlm.nih.gov/gene/5265
+
+UCSC Cell Browser. (n.d.). *Human Liver dataset: Hepatocyte cluster view* [Data set]. University of California, Santa Cruz. Retrieved September 25, 2026, from https://cells.ucsc.edu/?ds=human-liver&col_Hepatocyte=842222
+
+UCSC Cell Browser. (n.d.). *Human Liver dataset: SERPINA1 gene expression view* [Data set]. University of California, Santa Cruz. Retrieved September 25, 2026, from https://cells.ucsc.edu/?ds=human-liver&gene=SERPINA1
+
+---
+
+## Submission
+
+- **GitHub repository URL:** https://github.com/iinahmariee/OBINETA_SERPINA1_UCSC_Genome_Browser/tree/GROUP-4
+- **Assigned gene:** SERPINA1
+- **Date completed:** September 25, 2026
