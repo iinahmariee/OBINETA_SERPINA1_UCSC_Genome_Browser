@@ -155,7 +155,7 @@ Seeing alternative splicing directly was the most interesting part. Different tr
 - **Date completed:** September 23, 2026
 
 
-# From Genome to Cell: Exploring a Disease Gene Using the UCSC Cell Browser
+## PART 2: From Genome to Cell — Exploring a Disease Gene Using the UCSC Cell Browser
 
 **Name:** Obiñeta, Inah Marie
 **Date Completed:** September 25, 2026
